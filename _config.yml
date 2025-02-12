@@ -17,12 +17,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+  
 title: "Eric Allatta - Teaching Portfolio"
 email: "ericallatta@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A portf.
-domain: MrAllatta.github.io
+  A portfolio of my work and teaching philosophy including lesson artifacts, student work, professional engagement, and technical skills.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://MrAllatta.github.io/teaching-portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eallatta
