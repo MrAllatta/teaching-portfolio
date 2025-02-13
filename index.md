@@ -9,4 +9,6 @@ Hello! I'm Eric Allatta, an experienced NYC high school teacher specializing in 
 
 - [About Me]({{site.baseurl}}/about/)
 - [Portfolio]({{site.baseurl}}/portfolio/)
+- [Resume]({{site.baseurl}}/resume/)
 - [Contact]({{site.baseurl}}/contact/)
+
