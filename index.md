@@ -7,6 +7,6 @@ title: Home
 
 Hello! I'm Eric Allatta, an experienced NYC high school teacher specializing in integrated mathematics and computer science. Here, you'll find highlights of my teaching experience, lesson plans, and educational philosophy.
 
-- [About Me](/about/)
-- [Portfolio](/portfolio/)
-- [Contact](/contact/)
+- [About Me]({{site.baseurl}}/about/)
+- [Portfolio]({{site.baseurl}}/portfolio/)
+- [Contact]({{site.baseurl}}/contact/)
