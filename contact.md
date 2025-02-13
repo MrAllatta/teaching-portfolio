@@ -6,6 +6,6 @@ permalink: /contact/
 
 ## Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
-- GitHub: [Your GitHub](https://github.com/yourgithubusername)
+- Email: [ericallatta@gmail.com](mailto:ericallatta@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eric-allatta/)
+- GitHub: [Your GitHub](https://github.com/MrAllatta)
