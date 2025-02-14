@@ -6,12 +6,11 @@ permalink: /portfolio/
 
 ## Teaching Portfolio
 
-### Sample Lesson Plans
-- **Lesson 1:** [Link to lesson plan](/assets/sample-lesson.pdf)
-- **Lesson 2:** [Link to another lesson plan](/assets/sample-lesson2.pdf)
+Welcome to my teaching portfolio. I am a dedicated educator with a background in computer science, mathematics, and curriculum design, committed to fostering deep conceptual understanding through rigorous, student-centered instruction. My approach emphasizes **standards-based grading, regular feedback, and cross-curricular connections**, particularly at the intersection of computer science and mathematics. This portfolio showcases my teaching philosophy, lesson materials, student work, and professional achievements, highlighting my ability to design engaging, equity-focused learning experiences that prepare students for both academic success and real-world problem-solving.
 
-### Student Work
-- **Project:** [Link to student work](/assets/student-work.pdf)
-
-### Professional Development
-- Certifications, workshops, and relevant experiences.
+## Sections:
+- [Teaching Philosophy](philosophy.html)
+- [Curriculum Samples](curriculum-samples.html)
+- [Student Work](student-work.html)
+- [Professional Development](professional-development.html)
+- [Reflections](reflections.html)
