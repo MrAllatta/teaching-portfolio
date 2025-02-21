@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-<iframe src="{{ site.baseurl }}/assets/resume/Allatta_Eric_Math_7_12_resume.pdf" width="100%" height="800px">
+<iframe src="{{ site.baseurl }}/assets/resume/resume.pdf" width="100%" height="1100px">
     This browser does not support PDFs. Please download the file: 
-    <a href="{{ site.baseurl }}/assets/resume/Allatta_Eric_Math_7_12_resume.pdf">Download Resume</a>
+    <a href="{{ site.baseurl }}/assets/resume/resume.pdf">Download Resume</a>
 </iframe>
