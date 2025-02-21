@@ -4,27 +4,66 @@ body {
     padding: 0;
     max-width: 800px;
     margin: auto;
+    background: linear-gradient(to right, #f0f0f0, #e0e0e0);
+    animation: fadeIn .1s ease-in;
 }
 
 header {
-    background: #333;
+    background: #222;
     color: white;
-    padding: 10px;
+    padding: 15px;
     text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6); /* Adding a shadow for better contrast */
 }
 
 nav a {
     color: white;
-    margin: 0 10px;
+    margin: 0 15px;
     text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+nav a:hover {
+    color: #ff7f50;
+    text-decoration: underline;
+}
+
+header h1 a {
+    color: white; /* Ensures the link text is white */
+    text-decoration: none; /* Optional: removes underline */
+}
+
+header h1 a:hover {
+    color: #ff7f50; /* Optional: changes color on hover */
 }
 
 main {
     padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
 }
 
 footer {
     text-align: center;
-    padding: 10px;
-    background: #f1f1f1;
+    padding: 20px;
+    background: #333;
+    color: white;
+    font-size: 1.1em;
 }
+
+/* Fade-in animation for body */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
