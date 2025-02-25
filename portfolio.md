@@ -10,6 +10,8 @@ Welcome to my teaching portfolio. I am a dedicated educator with a background in
 
 ## Sections:
 - [Teaching Philosophy](philosophy.html)
+- [Teaching Statement](teaching-statement.html)
+- [Evidence of Impact](evidence-of-impact.html)
 - [Curriculum Samples](curriculum-samples.html)
 - [Student Work](student-work.html)
 - [Professional Development](professional-development.html)
