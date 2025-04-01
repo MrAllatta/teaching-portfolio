@@ -6,13 +6,13 @@ title: "Evidence of Impact"
 ## Evidence of Impact
 
 ### Key Data
-- **AP CS Principles Impact:** Taught to an entire 10th-grade cohort (~120 students per year, 2017–2019).
+- **AP CS Principles Impact:** Taught to an entire 10th-grade cohort (~120 students per year, 2017–2019). Each year improved number of students completing all sections and receiving scores.
 - **9th Grade Computing:** Delivered introductory computing courses to approximately 120 students per year (2012–2016) from a broad, unscreened population.
 - **Data Science Engagement:** Increased emphasis on project-based learning in later years, leading to measurable improvements in students' statistical and computational thinking.
 - **Overall Reach:** Over 1,000 students have been exposed to innovative, hands-on CS curricula that bridge computer science with fundamental mathematical reasoning.
 
 ### Representative Student Work
-- **Ashley Lee’s Data Science Project:**  
+- **Student Data Science Projects:** 
   A standout example where a student analyzed soda data using statistical methods and data visualization tools. This project not only showcased technical proficiency but also real-world problem-solving.  
   - [View Project](https://docs.google.com/document/d/1p63vfY1CNWrdBwIg2vXW_Nfxl-xG1rTlpYiboGbla-g/edit?usp=drivesdk)
 
