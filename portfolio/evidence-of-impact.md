@@ -6,9 +6,9 @@ title: "Evidence of Impact"
 ## Evidence of Impact
 
 ### Key Data
-- **AP CS Principles Impact:** Taught to an entire 10th-grade cohort (~120 students per year, 2017–2019). Each year improved number of students completing all sections and receiving scores.
-- **9th Grade Computing:** Delivered introductory computing courses to approximately 120 students per year (2012–2016) from a broad, unscreened population.
-- **Data Science Engagement:** Increased emphasis on project-based learning in later years, leading to measurable improvements in students' statistical and computational thinking.
+- **AP CS Principles Impact:** Taught entire 10th-grade cohorts (~120 students per year, 2017–2019) using an atypical algebraic programming course with capstone data science research projects as capstone performance task. In the spirit of AP for All, the goal was to expose all students to rigorous curriculum and the culture of college preparatory courses while continuing to support them in required courses. Each year improved number of students completing all sections of the exam and performance task and receiving scores. Notable high scores from some students.
+- **9th Grade Computing:** Delivered introductory computing courses to approximately 120 students per year (2012–2016) from a broad, unscreened population. Co-taught Algebra and ran a one-semester elective in parallel. This context was ideal for controlled study of the efficacy of functional programming pedagogy on algebraic problem solving.
+- **Data Science Engagement:** Increased emphasis on project-based learning in later years, leading to measurable improvements in students' statistical and computational thinking. The data science research project is an extended investigation of a large real-world dataset. Students iterate through question development cycles, perform quantitative analysis, and interpret the results. 
 - **Overall Reach:** Over 1,000 students have been exposed to innovative, hands-on CS curricula that bridge computer science with fundamental mathematical reasoning.
 
 ### Representative Student Work
