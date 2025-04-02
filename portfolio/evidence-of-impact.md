@@ -16,14 +16,11 @@ title: "Evidence of Impact"
   A standout example where a student analyzed soda data using statistical methods and data visualization tools. This project not only showcased technical proficiency but also real-world problem-solving.  
   - [View Project](https://docs.google.com/document/d/1p63vfY1CNWrdBwIg2vXW_Nfxl-xG1rTlpYiboGbla-g/edit?usp=drivesdk)
 
-### Brief Anecdotal Evidence
-> "Learning to code in a completely new language wasn’t just about mastering syntax—it transformed the way I approach problems, both in and out of the classroom."  
->  
+### Student Quotations
+> "Breaking a bigger problem into smaller, more easier to solve problems, rather than tackling the problem directly.",
+
+> "[Computer Science] has greatly increased my understanding and usage of programming in general enough for me to learn other languages outside of what is taught in class."
+
 > Many students experienced similar breakthroughs. For instance, one student described how the shift to project-based learning in our data science course empowered them to use real-world data to make sense of everyday decisions, marking a profound transformation in their academic journey.
 
-### Optional Testimonials
-- *"The data science course redefined my approach to learning. I gained skills that I now apply to both my academic and personal challenges."*  
-  — Former AP CS Student
-- *"These innovative lesson plans have reinvigorated our teaching approach, making computer science more accessible and deeply connected to mathematical reasoning."*  
-  — Colleague / Administrator
 
