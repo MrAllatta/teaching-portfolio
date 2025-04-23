@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-I taught in NYC public schools from 2011 to 2021, combining mathematics, computer science, and data-driven instruction. After focusing on family, I’m eager to contribute to a school that values innovation, collaboration, and equitable learning. NYCPS’s commitment to expanding computer science education, its diverse student population, and its themed schools align with my belief that all students deserve rigorous, integrated learning experiences that prepare them for a technology-driven world.
+I'm a CS and math educator with 10+ years of experience in NYC public schools, focused on integrating computing and data science into rigorous, equitable instruction. After a hiatus to focus on family, I'm excited to return to the classroom -- especially in a school that values inquiry, collaboration, and interdisciplinary thinking.
 
-As a founding computer science teacher at the Academy for Software Engineering (AFSE), I spent nine years developing an integrated CS-math curriculum to support diverse learners. I worked with tools like Bootstrap, EarSketch, Beauty and Joy of Computing, Nand2Tetris, and Greenfoot, transforming my classroom into a learning lab focused on accessibility and rigor. This interdisciplinary approach led to increased AP CS enrollment and stronger Algebra Regents performance.
+At the Academy for Software Engineering (AFSE), I helped launch one of NYC's first CS-themed high schools. Over nine years, I:
+- Developed integrated CS-math curriculua using tools like Bootstrap, Greenfoot, EarSketch, Nand2Tetris, and Beauty and Joy of Computing
+- Focused on accessibility and conceptual for diverse learners
+- Led interdisciplinary initiatives that strengthened both AP CS enrollment and Algebra Regents outcomes
 
-I do my best work in collaborative, inquiry-driven environments—especially in STEM-focused schools, early college models, or project-based settings. I’ve mentored new CS teachers, led interdisciplinary planning to connect instruction across subjects, and managed a staff intranet team to streamline communication. I also ran an after-school coding club, helping students explore programming beyond the classroom.
+I thrive in project-based, STEM-focused schools -- especially early college models and interdisciplinary teams. I've:
+- Mentored new CS teachers
+- Led cross-department planning
+- Managaged school-wide systems for internal communication
+- Founded an after-school coding club to expand programming access
 
-Beyond instruction, I’ve leveraged my technical skills to support student-led initiatives and school systems. One of my favorite projects was guiding students through a data science initiative where they designed and analyzed an engagement survey, identifying trends that informed instructional strategies. To improve data accessibility, I built ATS integrations with platforms like Remind and gradebook systems, streamlining communication and progress tracking.
+I also bring technical systems experience. Highlights include:
+- Guiding students through a data science initiative to design and analyze a schoolwide engagement survey
+- Building integrations with ATS, Remind, and gradebook tools to improve communication and progress tracking
 
-I’d love to teach AP Computer Science or Data Science, bringing expertise in computational thinking and interdisciplinary instruction. I’m also excited about teaching Algebra I or an integrated CS-math course or advanced mathematics to highlight the connections between math and computing. I value strong communication with families through transparent grading, parent workshops on technology, and partnerships with local organizations to expand STEM learning beyond the school day.
+These projects helped schools act on student feedback and manage instruction more effectively.
+
+I'm ready to lead AP Computer Science, Data Science or an integrated CS-Math course, and I'm equally at home teaching Algebra I or advanced math with a computing lens. I believe in transparent grading, regular family communication, and building STEM partnerships that extend learning beyond the school day.
