@@ -77,3 +77,22 @@ Goal: A comprehensive repository supporting candidacy for competitive teaching r
 - **Phase 1**: Build the site skeleton and upload essential documents.
 - **Phase 2**: Curate select materials, ensuring clarity without bloat.
 - **Phase 3**: Develop an exhaustive, well-organized repository to showcase depth.
+
+## Directory Structure
+.
+├── _config.yml
+├── index.md                  → Home
+├── about.md                  → /about/
+├── cv.md                     → /about/cv/
+├── curriculum/
+│   ├── index.md              → /curriculum/
+│   ├── unit-1-functions.md  → /curriculum/unit-1-functions/
+│   └── ...
+├── projects/
+│   ├── index.md              → /projects/
+│   ├── data-science.md       → /projects/data-science/
+│   ├── flag-project.md       → /projects/flag-project/
+│   └── ...
+├── impact.md                → /impact/
+├── evidence.md              → /impact/evidence/
+└── contact.md               → /contact/
