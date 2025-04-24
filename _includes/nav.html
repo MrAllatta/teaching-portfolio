@@ -1,0 +1,37 @@
+<nav class="site-nav">
+  <ul class="nav-menu">
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li class="has-dropdown">
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/teaching/philosophy/' | relative_url }}">Philosophy</a></li>
+        <li><a href="{{ '/teaching/curriculum/' | relative_url }}">Curriculum</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/student-work/' | relative_url }}">Student Work</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/student-work/data-science/' | relative_url }}">Data Science</a></li>
+        <li><a href="{{ '/student-work/flag-project/' | relative_url }}">Flag Project</a></li>
+        <li><a href="{{ '/student-work/karel-mazes/' | relative_url }}">Karel Mazes</a></li>
+        <li><a href="{{ '/student-work/bootstrap-games/' | relative_url }}">Bootstrap Games</a></li>
+        <li><a href="{{ '/student-work/student-blogs/' | relative_url }}">Learning Blogs</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/impact/' | relative_url }}">Impact</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/impact/evidence/' | relative_url }}">Evidence</a></li>
+        <li><a href="{{ '/impact/testimonials/' | relative_url }}">Testimonials</a></li>
+        <li><a href="{{ '/impact/growth/' | relative_url }}">Growth Stories</a></li>
+      </ul>
+    </li>
+    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+  </ul>
+</nav>
