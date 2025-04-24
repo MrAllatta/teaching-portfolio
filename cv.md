@@ -1,7 +1,12 @@
+---
+title: CV
+layout: default
+permalink: /about/cv/
+---
+
 # **Curriculum Vitae**  
 *Computer Science & Mathematics Educator | Curriculum Developer | National Trainer*  
 📍 Relocating to NYC by July 2025  
-📧 [Your Email] • 🌐 [Your Portfolio URL] • 📞 [Your Phone]
 
 ---
 
@@ -38,6 +43,35 @@ Experienced computer science and mathematics educator with over a decade of succ
 - Conducted action research on formative assessment and student performance in upper-level math.
 
 ---
+
+🔧 Instructional Systems Design & Engineering
+Selected projects demonstrating the use of spreadsheet-based automation, data integration, and instructional infrastructure.
+
+📌 Parent-Student-Teacher Communication System via ATS → Remind Integration
+Developed a secure, scalable system to import and process student and guardian contact data from the NYC DOE’s Automate The Schools (ATS) system into Remind, a school communication platform.
+
+- Used advanced spreadsheet logic and data validation to:
+
+  - Match students with multiple guardians while respecting language preferences and custody considerations.
+
+  - Automatically assign students to teachers and advisory groups based on shared instructional context.
+
+  - Enable targeted, role-sensitive messaging (e.g., academic warnings, celebration notes, multilingual updates).
+
+Result: Dramatically improved outreach rates in hard-to-reach populations and supported school-wide systems of care and accountability during both in-person and remote instruction.
+
+📌 Jumprope → Reporting & Progress Monitoring System
+Designed and maintained a suite of spreadsheet-based tools using export data from the Jumprope standards-based grading platform to streamline:
+
+- Real-time dashboards for mastery tracking across math, CS, and advisory courses.
+
+- Graduation eligibility planning using dynamic credit tallies, state exam requirements, and IEP/ENL adjustments.
+
+- Collaborative team planning tools, linking grade-level and department leads with centralized insights into student progress and intervention outcomes.
+
+- Architected parent/child spreadsheet systems with push/pull syncing logic, enabling flexible data ownership while maintaining system integrity.
+
+Result: Empowered instructional teams to monitor, respond to, and improve student outcomes across hundreds of learners — even in remote learning contexts.
 
 ## **Teacher Training & Consulting**
 
