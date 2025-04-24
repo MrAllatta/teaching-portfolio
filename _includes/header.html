@@ -1,9 +1,5 @@
 <header>
     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    <nav>
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="{{ '/portfolio/' | relative_url }}">Portfolio</a>
-	<a href="{{ '/resume/' | relative_url }}">Resume</a>
-    </nav>
+    {% include nav.html %}
 </header>
  
