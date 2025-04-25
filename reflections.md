@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Blog
+permalink: /teaching/reflections/
 ---
 <h1>Latest Posts</h1>
 
