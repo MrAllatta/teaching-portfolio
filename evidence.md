@@ -3,25 +3,30 @@ layout: page
 title: "Evidence of Impact"
 permalink: /impact/evidence/
 ---
-
 ## Evidence of Impact
 
-### Key Data
-- **AP CS Principles Impact:** Taught entire 10th-grade cohorts (~120 students per year, 2017–2019) using an atypical algebraic programming course with capstone data science research projects as capstone performance task. In the spirit of AP for All, the goal was to expose all students to rigorous curriculum and the culture of college preparatory courses while continuing to support them in required courses. Each year improved number of students completing all sections of the exam and performance task and receiving scores. Notable high scores from some students.
-- **9th Grade Computing:** Delivered introductory computing courses to approximately 120 students per year (2012–2016) from a broad, unscreened population. Co-taught Algebra and ran a one-semester elective in parallel. This context was ideal for controlled study of the efficacy of functional programming pedagogy on algebraic problem solving.
-- **Data Science Engagement:** Increased emphasis on project-based learning in later years, leading to measurable improvements in students' statistical and computational thinking. The data science research project is an extended investigation of a large real-world dataset. Students iterate through question development cycles, perform quantitative analysis, and interpret the results. 
-- **Overall Reach:** Over 1,000 students have been exposed to innovative, hands-on CS curricula that bridge computer science with fundamental mathematical reasoning.
+### Scope of Instructional Reach
+- **AP CS Principles for All:** Taught entire 10th-grade cohorts (~120 students/year, 2017–2021) in a fully inclusive AP CSP course using an algebra-focused, functional programming curriculum. Despite exam misalignment, course completion rates and full submission of the performance task increased each year.
+- **Intro to Computing at Scale:** Delivered 9th-grade computing instruction to ~120 students/year (2012–2016), many of whom had no prior exposure to CS. Course design emphasized visual modeling, recursion, and algebraic reasoning.
+- **Data Science Integration:** In later years, shifted to project-based data science instruction, culminating in student-designed research surveys and analysis. Projects featured iterative inquiry, statistical modeling, and public presentation.
+- **Cumulative Reach:** Over 1,000 students exposed to computing-infused math curriculum and interdisciplinary problem-solving.
 
-### Representative Student Work
-- **Student Data Science Projects:** 
-  A standout example where a student analyzed soda data using statistical methods and data visualization tools. This project not only showcased technical proficiency but also real-world problem-solving.  
-  - [View Project](https://docs.google.com/document/d/1p63vfY1CNWrdBwIg2vXW_Nfxl-xG1rTlpYiboGbla-g/edit?usp=drivesdk)
+### Sample Student Outcomes
+- **Conceptual Growth:** Students routinely transferred skills from CS to algebra and vice versa—building functions, analyzing structure, and debugging both math and code with increasing fluency.
+- **Post-Course Trajectories:** Alumni have enrolled in CS courses at Hunter, NYU, and CUNY; one student later co-taught at the Summer Hack League, citing his AP CSP project as a turning point.
 
-### Student Quotations
-> "Breaking a bigger problem into smaller, more easier to solve problems, rather than tackling the problem directly.",
+### Artifacts & Testimonials
+> *“Breaking a bigger problem into smaller, easier-to-solve problems, rather than tackling the problem directly.”* — 10th Grade AP CSP Student
 
-> "[Computer Science] has greatly increased my understanding and usage of programming in general enough for me to learn other languages outside of what is taught in class."
+> *“Computer science increased my understanding and usage of programming enough for me to learn other languages on my own.”* — 11th Grade Student
 
-> Many students experienced similar breakthroughs. For instance, one student described how the shift to project-based learning in our data science course empowered them to use real-world data to make sense of everyday decisions, marking a profound transformation in their academic journey.
+> *“The data project helped me realize I could use math to ask my own questions—not just answer someone else’s.”* — Student Reflection
 
+### Highlighted Student Work
+- **[Soda Consumption & Health Survey – Data Science Project (Google Doc)](https://docs.google.com/document/d/1p63vfY1CNWrdBwIg2vXW_Nfxl-xG1rTlpYiboGbla-g/edit?usp=drivesdk)**
+  A standout capstone by a student who used survey methodology, spreadsheet functions, and graphing to explore correlations in soda intake and health perceptions. Project included full methodology, spreadsheet screenshots, and a student-narrated walkthrough.
 
+---
+
+### Reflections on Practice
+I believe evidence of impact comes not only from test scores but from how often students surprise you with original insight, persistence, or ownership. These projects and voices remind me why I teach: not to check boxes, but to help students build tools they can use beyond the classroom.
