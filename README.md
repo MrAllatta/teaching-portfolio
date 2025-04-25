@@ -84,12 +84,12 @@ Goal: A comprehensive repository supporting candidacy for competitive teaching r
 ├── index.md                  → Home
 ├── about.md                  → /about/
 ├── cv.md                     → /about/cv/
+├── curriculum.md             → /curriculum/
 ├── curriculum/
-│   ├── index.md              → /curriculum/
 │   ├── unit-1-functions.md  → /curriculum/unit-1-functions/
 │   └── ...
-├── projects/
-│   ├── index.md              → /projects/
+├── projects.md
+├── projects/                 → /projects/
 │   ├── data-science.md       → /projects/data-science/
 │   ├── flag-project.md       → /projects/flag-project/
 │   └── ...
