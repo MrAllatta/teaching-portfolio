@@ -1,28 +1,23 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /student-work/
 ---
 
-## Student Projects & Samples
+## Projects & Student Work
 
-This section highlights representative projects that demonstrate my emphasis on **authentic inquiry, computational thinking**, and **interdisciplinary problem-solving**. Projects are selected for their diversity in scope, tool use, and student ownership.
+This section showcases the hands-on, minds-on projects that form the backbone of my classroom. Each one is designed to develop conceptual understanding, technical fluency, and creative expression—while meeting students where they are.
 
-Each project emphasizes:
-- **Real-World Data or Contexts**
-- **Structured Scaffolded Design**
-- **Creativity + Technical Rigor**
-- **Clear Connection to Learning Goals**
+### Design Pillars
+- **Inquiry First** – Projects begin with a question, not a worksheet.
+- **Accessible Complexity** – Scaffolded entry points with room to grow
+- **Personal Relevance** – Identity, choice, and real-world context
+- **Visible Thinking** – Code, reflections, visuals, and presentations
 
-### Project Themes
-- **Data Literacy & Visualization**
-- **Algorithm Design**
-- **Civic Tech & Social Impact**
-- **Creative Expression in Code**
+### Explore Project Pages:
+- [Data Science & Student Surveys](/projects/data-science/)
+- [Symbolism Through Geometry: Flag Project](/projects/flag-project/)
+- [Coming Soon: Karel Mazes, Video Games, and Learning Blogs]
 
-Explore the individual project pages to see prompts, rubrics, and student work examples:
-
-- [Data Science & Survey Analysis](/projects/data-science/)
-- [Symbolic Expression & Flag Project](/projects/flag-project/)
-- [Others Coming Soon...]
+These projects aren't just activities—they’re structured invitations into computational thinking, mathematical modeling, and personal discovery.
 
