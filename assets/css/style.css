@@ -22,6 +22,10 @@ header h1 {
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6); /* Adding a shadow for better contrast */
 }
 
+header ul {
+    background: #222;
+}
+
 nav a {
     color: white;
     margin: 0 15px;
@@ -70,7 +74,6 @@ footer {
 }
 
 .site-nav {
-  background: #f8f9fa;
   padding: 0.5em 1em;
   font-family: sans-serif;
 }
@@ -90,7 +93,6 @@ footer {
 
 .nav-menu a {
   text-decoration: none;
-  color: #333;
   padding: 0.5em;
 }
 
@@ -101,7 +103,6 @@ footer {
 .dropdown {
   display: none;
   position: absolute;
-  background: white;
   list-style: none;
   padding: 0.5em 0;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
