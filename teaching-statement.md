@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Teaching Statement"
+permalink: /teaching/
 ---
 
 ## Core Teaching Philosophy
