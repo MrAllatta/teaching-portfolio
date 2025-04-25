@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ATS-to-Remind Integration Tool
-permalink: /tools/ats-remind/
+permalink: /tools/remind/
 ---
 
 ## ATS-to-Remind Import Tool
