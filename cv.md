@@ -1,10 +1,9 @@
 ---
-title: CV
-layout: default
+title: "Curriculum Vitae"
+layout: page
 permalink: /about/cv/
 ---
 
-# **Curriculum Vitae**  
 *Computer Science & Mathematics Educator | Curriculum Developer | National Trainer*  
 📍 Relocating to NYC by July 2025  
 
@@ -44,10 +43,10 @@ Experienced computer science and mathematics educator with over a decade of succ
 
 ---
 
-🔧 Instructional Systems Design & Engineering
+## Instructional Systems Design & Engineering
 Selected projects demonstrating the use of spreadsheet-based automation, data integration, and instructional infrastructure.
 
-📌 Parent-Student-Teacher Communication System via ATS → Remind Integration
+### Parent-Student-Teacher Communication System via ATS → Remind Integration
 Developed a secure, scalable system to import and process student and guardian contact data from the NYC DOE’s Automate The Schools (ATS) system into Remind, a school communication platform.
 
 - Used advanced spreadsheet logic and data validation to:
@@ -60,7 +59,7 @@ Developed a secure, scalable system to import and process student and guardian c
 
 Result: Dramatically improved outreach rates in hard-to-reach populations and supported school-wide systems of care and accountability during both in-person and remote instruction.
 
-📌 Jumprope → Reporting & Progress Monitoring System
+### Jumprope → Reporting & Progress Monitoring System
 Designed and maintained a suite of spreadsheet-based tools using export data from the Jumprope standards-based grading platform to streamline:
 
 - Real-time dashboards for mastery tracking across math, CS, and advisory courses.
@@ -150,11 +149,3 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 
 ---
 
-## **Portfolio & Contact**
-
-**📂 Portfolio & Curriculum Site:**  
-[https://mrallatta.github.io/teaching-portfolio](https://mrallatta.github.io/teaching-portfolio)
-
-**📧 Email / 📞 Phone / 💬 Available for interviews and consulting**
-
----
