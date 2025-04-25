@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Philosophy
+permalink: /teaching/philosophy/
 ---
 ## Teaching Philosophy
 
