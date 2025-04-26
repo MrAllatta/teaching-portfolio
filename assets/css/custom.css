@@ -1,0 +1,19 @@
+/* Dark Masthead with White Text */
+
+/* Background for masthead */
+.masthead {
+  background-color: #222 !important; /* dark gray, adjust as needed */
+}
+
+/* Text color inside masthead */
+.masthead a,
+.masthead__inner-wrap,
+.masthead__menu a,
+.masthead__title {
+  color: #ffffff !important;
+}
+
+/* Optional: hover color for nav links */
+.masthead__menu a:hover {
+  color: #dddddd !important;
+}

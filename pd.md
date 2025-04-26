@@ -4,7 +4,7 @@ title: Professional Development
 permalink: /teaching/professional-development/
 ---
 
-**Professional Development**
+## Professional Development
 
 ## Ongoing Learning and Certifications
 

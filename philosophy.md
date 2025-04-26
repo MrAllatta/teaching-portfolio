@@ -3,9 +3,7 @@ layout: page
 title: Philosophy
 permalink: /teaching/philosophy/
 ---
-## Teaching Philosophy
-
-### Learning is Slow, Messy, and Worth It
+## Learning is Slow, Messy, and Worth It
 
 Learning takes time. Deep understanding doesn't emerge from high-speed coverage or performative participation—it grows from thoughtful repetition, productive struggle, and meaningful feedback. Too often, students are rewarded for looking busy, memorizing procedures, or parroting the “right answer.” I work against that pressure.
 

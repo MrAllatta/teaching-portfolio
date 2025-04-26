@@ -1,6 +1,6 @@
 ---
+layout: single
 title: "Behind the Systems: Tools, Logic, and Automation"
-layout: default
 permalink: /tools/
 ---
 ## Instructional Tools & Systems
@@ -13,8 +13,8 @@ Behind every good classroom is a quiet stack of systems doing invisible work—s
 - **Data With Purpose** – Only tracking what supports student growth or teacher insight
 
 ### Featured Systems:
-- [ATS-to-Remind Integration Tool](/tools/ats-remind/)
-- [Grade Converter for Mastery-Based Uploads](/tools/grade-converter/)
+- [ATS-to-Remind Integration Tool]({{ '/tools/ats-remind/' | relative_url }})
+- [Grade Converter for Mastery-Based Uploads]({{ '/tools/grade-converter/' | relative_url }})
 - [Coming Soon: Progress Tracker Dashboard, Assignment Generator, Advisory Toolkit]
 
 These aren’t polished products—they’re pragmatic tools born from need, iteration, and the belief that when the system works, teachers can focus on teaching.

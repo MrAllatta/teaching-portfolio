@@ -1,23 +1,21 @@
 ---
-layout: page
+layout: single
 title: Impact
 permalink: /impact/
 ---
-
-## Teaching for Lasting Impact
 
 Impact in education isn’t about short-term performance spikes—it’s about what *sticks*. What do students remember, apply, and build on long after the class ends?
 
 This section highlights how my teaching approach aims to foster durable skills, conceptual growth, and agency in students who may not have originally seen themselves in computer science or advanced mathematics.
 
-### What I Mean by “Impact”
+### Impact:
 - **Expanded Access**: Bringing AP-level CS to full-grade cohorts, not just self-selecting students
 - **Equity Through Design**: Using functional programming and structured pedagogy to bridge math and CS
 - **Meaningful Work**: Projects grounded in student-designed inquiry, civic engagement, and identity
 - **Systems-Level Change**: Building tools that let teachers teach more and track better
 
 ### Explore:
-- [Evidence of Impact](/impact/evidence/) — Cohort data, student voice, and sample work
+- [Evidence of Impact]({{ '/impact/evidence/' | relative_url }}) — Cohort data, student voice, and sample work
 
 ---
 

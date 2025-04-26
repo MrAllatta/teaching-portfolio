@@ -1,7 +1,7 @@
 ---
+layout: single
 title: "Curriculum Vitae"
-layout: page
-permalink: /about/cv/
+permalink: /cv/
 ---
 
 *Computer Science & Mathematics Educator | Curriculum Developer | National Trainer*  

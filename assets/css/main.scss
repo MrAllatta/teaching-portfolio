@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+$link-color: #9b59b6;
+$primary-color: #3498db;
+/* Dark Masthead with White Text — Final Version */
+
+/* Masthead container background */
+.masthead {
+  background-color: #222 !important; /* dark background */
+}
+
+/* Greedy nav bar inside masthead */
+.greedy-nav {
+  background-color: transparent !important; /* inherit masthead bg */
+}
+
+/* Force text inside masthead and greedy-nav to white */
+.masthead,
+.masthead a,
+.masthead__inner-wrap,
+.masthead__menu,
+.masthead__menu a,
+.masthead__menu-item,
+.masthead__title,
+.greedy-nav,
+.greedy-nav a {
+  color: #ffffff !important;
+}
+
+/* Fix ::selection highlight inside masthead */
+.masthead ::selection,
+.greedy-nav ::selection {
+  background: #555; /* darker selection bg */
+  color: #ffffff !important;
+}
+
+/* Optional: menu link hover color */
+.masthead__menu a:hover,
+.greedy-nav a:hover {
+  color: #dddddd !important;
+}
+
+
+#footer {
+    background: #222;
+}
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

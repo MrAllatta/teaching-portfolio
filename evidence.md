@@ -3,8 +3,6 @@ layout: page
 title: "Evidence of Impact"
 permalink: /impact/evidence/
 ---
-## Evidence of Impact
-
 ### Scope of Instructional Reach
 - **AP CS Principles for All:** Taught entire 10th-grade cohorts (~120 students/year, 2017–2021) in a fully inclusive AP CSP course using an algebra-focused, functional programming curriculum. Despite exam misalignment, course completion rates and full submission of the performance task increased each year.
 - **Intro to Computing at Scale:** Delivered 9th-grade computing instruction to ~120 students/year (2012–2016), many of whom had no prior exposure to CS. Course design emphasized visual modeling, recursion, and algebraic reasoning.

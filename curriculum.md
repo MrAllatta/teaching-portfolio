@@ -3,7 +3,6 @@ layout: page
 title: Curriculum Samples
 permalink: /teaching/curriculum/
 ---
-## Curriculum Overview
 
 This section provides a high-level view of the CS and math-integrated curriculum I’ve developed and taught over the past decade. My focus is on helping students build **foundational concepts**, apply **computational thinking**, and explore **real-world applications** across disciplines.
 

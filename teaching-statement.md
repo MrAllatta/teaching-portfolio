@@ -4,8 +4,6 @@ title: "Teaching Statement"
 permalink: /teaching/
 ---
 
-## Core Teaching Philosophy
-
 I believe students learn most deeply when they’re active participants in their own education. My teaching philosophy is grounded in constructivism—the idea that knowledge is built through inquiry, experimentation, and reflection. My role is to create structured opportunities for students to wrestle with challenging ideas, and to guide—not dominate—their path toward understanding.
 
 ### What That Looks Like:

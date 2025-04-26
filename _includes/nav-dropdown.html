@@ -1,0 +1,56 @@
+<nav class="site-nav">
+  <ul class="nav-menu">
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li class="has-dropdown">
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/about/cv/' | relative_url }}">CV</a></li>
+	<li><a href="{{ '/about/resume/' | relative_url }}">Resume</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/teaching/philosophy/' | relative_url }}">Philosophy</a></li>
+        <li><a href="{{ '/teaching/curriculum/' | relative_url }}">Curriculum</a></li>
+	<li><a href="{{ '/teaching/professional-development/' | relative_url }}">Professional Development</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/student-work/' | relative_url }}">Student Work</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/student-work/data-science/'    | relative_url }}">Data Science</a></li>
+        <li><a href="{{ '/student-work/flag-project/'    | relative_url }}">Flag Project</a></li>
+<!--
+<li><a href="{{ '/student-work/karel-mazes/'     | relative_url }}">Karel Mazes</a></li>
+<li><a href="{{ '/student-work/bootstrap-games/' | relative_url }}">Bootstrap Games</a></li>
+<li><a href="{{ '/student-work/student-blogs/'   | relative_url }}">Learning Blogs</a></li>
+-->
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/impact/' | relative_url }}">Impact</a>
+      <ul class="dropdown">
+        <li><a href="{{ '/impact/evidence/'     | relative_url }}">Evidence</a></li>
+<!--        <li><a href="{{ '/impact/testimonials/' | relative_url }}">Testimonials</a></li> -->
+        <li><a href="{{ '/impact/timeline/'     | relative_url }}">Growth Timeline</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/tools/' | relative_url  }}">Tools</a>
+      <ul class="dropdown">
+	<li><a href="{{ '/tools/ats-remind/' | relative_url }}">ATS to Remind</a></li>
+	<li><a href="{{ '/tools/dashboard/' | relative_url }}">Gradebook Glue</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown">
+      <a href="{{ '/case-studies/' | relative_url  }}">Case Studies</a>
+      <ul class="dropdown">
+	<li><a href="{{ '/case-studies/ats-remind/' | relative_url }}">ATS to Remind</a></li>
+	<li><a href="{{ '/case-studies/dashboard/' | relative_url }}">Gradebook Glue</a></li>
+      </ul>
+    </li>
+
+    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+  </ul>
+</nav>
