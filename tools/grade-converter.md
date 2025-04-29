@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: single
 title: "Grade Converter Tool"
 permalink: /tools/grade-converter/
+sidebar:
+  nav: "main"
+author_profile: true
+
 ---
 
 ## Overview
