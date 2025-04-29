@@ -33,8 +33,8 @@ At AFSE (Academy for Software Engineering), we piloted a move to mastery-based l
 
 The Grade Converter Tool was part of a larger suite of **internal dashboards and mail merge systems**:
 
-- [Schoolwide Dashboards](/tools/dashboard/): Monitored attendance, engagement, grading, and interventions.
-- [Mastery Rubric Alignment](/case-studies/mastery-rubric/): Supported the clarity and consistency of grading inputs.
+- [Schoolwide Dashboards]({{ '/tools/dashboard/' | relative_url }}): Monitored attendance, engagement, grading, and interventions.
+- [Mastery Rubric Alignment]({{ '/case-studies/mastery-rubric/' | relative_url }}): Supported the clarity and consistency of grading inputs.
 
 ## Screenshots (Coming Soon)
 - Main grade conversion sheet

@@ -39,5 +39,5 @@ Remind is a powerful communication tool—but many of its more advanced features
 
 ---
 
-**Status:** Internal prototype in use from 2018–2021. Currently being reviewed for broader documentation and potential reuse. If interested in collaboration or viewing sample files, [please reach out via the Contact page](/contact/).
+**Status:** Internal prototype in use from 2018–2021. Currently being reviewed for broader documentation and potential reuse. If interested in collaboration or viewing sample files, [please reach out via the Contact page]({{ '/contact' | relative }}).
 

@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Impact"
@@ -9,8 +9,8 @@ main:
     url: /student-work/
   - title: "Tools"
     url: /tools/
-  - title: "CV"
-    url: /cv/
+  - title: "About"
+    url: /about/
   - title: "Contact"
     url: /contact/
 

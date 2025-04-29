@@ -2,6 +2,9 @@
 layout: page
 title: "Evidence of Impact"
 permalink: /impact/evidence/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 ### Scope of Instructional Reach
 - **AP CS Principles for All:** Taught entire 10th-grade cohorts (~120 students/year, 2017–2021) in a fully inclusive AP CSP course using an algebra-focused, functional programming curriculum. Despite exam misalignment, course completion rates and full submission of the performance task increased each year.

@@ -2,6 +2,9 @@
 layout: page
 title: "Jumpro.pe Dashboards & Reporting Glue"
 permalink: /tools/dashboard/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Jumpro.pe Dashboards & Reporting Glue
