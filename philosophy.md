@@ -9,8 +9,6 @@ Learning takes time. Deep understanding doesn't emerge from high-speed coverage 
 
 My classrooms are designed to normalize intellectual risk and reward authentic engagement. I structure **multiple encounters** with core ideas, followed by **challenging applications** that push students beyond familiarity. Feedback is frequent, standards-based, and revision-oriented. This approach creates space for students to grow at different paces—and to see mistakes as part of mastery, not evidence of failure.
 
----
-
 ## Teaching Computer Science: A Data-First Philosophy
 
 ### Computing Is About More Than Code
@@ -36,8 +34,6 @@ From **data privacy and algorithmic bias** to **coding as creative expression**,
 ### Preparing for What Comes Next
 
 I teach CS Principles not just to pass the exam—but to prepare students for **AP CS A and beyond**. Many of my students come in without prior experience. My job is to make sure they leave with the habits, mindset, and technical fluency to succeed—whether in future computing courses or the broader digital world.
-
----
 
 ## Final Thought
 
