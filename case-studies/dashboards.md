@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Recovery and Communication Dashboards
-permalink: /impact/case-studies/dashboards/
+permalink: /case-studies/dashboards/
 ---
 
 # Course Recovery and Communication Dashboards

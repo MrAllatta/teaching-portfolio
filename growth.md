@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Growth Timeline
-permalink: /impact/timeline/
+permalink: /timeline
 ---
 
 ## Timeline of Growth & Learning
