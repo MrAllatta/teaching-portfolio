@@ -2,6 +2,10 @@
 layout: page
 title: Course Recovery and Communication Dashboards
 permalink: /case-studies/dashboards/
+sidebar:
+  nav: "main"
+author_profile: true
+
 ---
 
 # Course Recovery and Communication Dashboards
