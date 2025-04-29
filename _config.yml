@@ -77,7 +77,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 # title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Building Systems. Centering Students. Supporting Teachers." # site tagline that appears below site title in masthead
 #name                     : "Your Name"
 #description              : "An amazing website."
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -85,7 +85,7 @@ subtitle                 : # site tagline that appears below site title in masth
 repository               : "MrAllatta/teaching-portfolio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -172,8 +172,8 @@ analytics:
 # Site Author
 author:
   name             : "Eric Allatta"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematics and computer science teacher in New York City."
+  avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Comuter Science and Mathematics Teacher in New York City."
   location         : "NYC"
   email            : "ericallatta@gmail.com"
   links:
@@ -382,3 +382,6 @@ defaults:
       comments: # true
       share: true
       related: true
+# Sidebar settings
+sidebar:
+  nav: "main"

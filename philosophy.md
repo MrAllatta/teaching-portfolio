@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Philosophy
 permalink: /teaching/philosophy/
 ---

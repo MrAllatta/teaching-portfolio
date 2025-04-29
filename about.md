@@ -2,6 +2,9 @@
 layout: single
 title: About
 permalink: /about/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 <p style="float: left; margin: 10px;">
   <img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Description" width="200" />
