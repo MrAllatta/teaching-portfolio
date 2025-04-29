@@ -18,6 +18,24 @@ $primary-color: #3498db;
   background-color: transparent !important; /* inherit masthead bg */
 }
 
+/* Fix hidden nav dropdown for dark masthead */
+
+/* Dropdown container */
+.hidden-links {
+  background-color: #222 !important; /* Match your masthead dark color */
+}
+
+/* Each dropdown link */
+.hidden-links a {
+  color: #ffffff !important; /* White text for dropdown links */
+}
+
+/* Optional: dropdown link hover */
+.hidden-links a:hover {
+  background-color: #333 !important; /* Slightly lighter for hover */
+  color: #ffffff !important;
+}
+
 /* Force text inside masthead and greedy-nav to white */
 .masthead,
 .masthead a,
@@ -33,7 +51,8 @@ $primary-color: #3498db;
 
 /* Fix ::selection highlight inside masthead */
 .masthead ::selection,
-.greedy-nav ::selection {
+.greedy-nav ::selection,
+.hidden-links {
   background: #555; /* darker selection bg */
   color: #ffffff !important;
 }
@@ -43,7 +62,6 @@ $primary-color: #3498db;
 .greedy-nav a:hover {
   color: #dddddd !important;
 }
-
 
 #footer {
     background: #222;
