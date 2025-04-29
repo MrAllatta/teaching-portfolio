@@ -2,6 +2,9 @@
 layout: single
 title: Impact
 permalink: /impact/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 Impact in education isn’t about short-term performance spikes—it’s about what *sticks*. What do students remember, apply, and build on long after the class ends?

@@ -1,6 +1,9 @@
 ---
 layout: single
 title: Projects & Student Work
+sidebar:
+  nav: "main"
+author_profile: true
 permalink: /student-work/
 ---
 

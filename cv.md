@@ -2,6 +2,9 @@
 layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 *Computer Science & Mathematics Educator | Curriculum Developer | National Trainer*  

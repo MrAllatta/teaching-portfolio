@@ -2,6 +2,9 @@
 layout: single
 title: "Behind the Systems: Tools, Logic, and Automation"
 permalink: /tools/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 ## Instructional Tools & Systems
 

@@ -2,6 +2,9 @@
 layout: single
 title: Contact Me
 permalink: /contact/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 - Email: [ericallatta@gmail.com](mailto:ericallatta@gmail.com)
