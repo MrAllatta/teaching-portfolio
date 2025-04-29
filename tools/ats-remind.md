@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
 title: ATS-to-Remind Integration Tool
 permalink: /tools/ats-remind/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## ATS-to-Remind Import Tool
