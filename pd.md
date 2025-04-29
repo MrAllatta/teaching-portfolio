@@ -9,7 +9,7 @@ author_profile: true
 
 ## Professional Development
 
-## Ongoing Learning and Certifications
+### Ongoing Learning and Certifications
 
 I have actively engaged in professional development to enhance my teaching practice and stay current with evolving pedagogical and technological trends. My learning has included:
 
@@ -19,7 +19,7 @@ I have actively engaged in professional development to enhance my teaching pract
 - **Math for America (MfA) Membership:** Active participation in MfA’s professional learning communities, engaging in mathematics and computer science education workshops and discussions.
 - **Bootstrap: Algebra & Data Science:** Extensive training in Bootstrap’s integrated computer science and mathematics curriculum, leveraging programming to reinforce algebraic reasoning and data analysis.
 
-## Leadership in Professional Development
+### Leadership in Professional Development
 
 In addition to my own learning, I have played a significant role in leading and shaping professional development for educators. My contributions include:
 
