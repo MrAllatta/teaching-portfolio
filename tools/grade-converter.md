@@ -5,7 +5,6 @@ permalink: /tools/grade-converter/
 sidebar:
   nav: "main"
 author_profile: true
-
 ---
 
 ## Overview

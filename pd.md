@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
 title: Professional Development
 permalink: /teaching/professional-development/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Professional Development

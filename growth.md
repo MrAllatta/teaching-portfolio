@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
 title: Growth Timeline
 permalink: /timeline
+pagesidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Timeline of Growth & Learning
