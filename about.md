@@ -3,6 +3,9 @@ layout: single
 title: About
 permalink: /about/
 ---
+<p style="float: left; margin: 10px;">
+  <img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Description" width="200" />
+</p>
 
 I'm a CS and math educator with 10+ years of experience in NYC public schools, focused on integrating computing and data science into rigorous, equitable instruction. After a hiatus to focus on family, I'm excited to return to the classroom -- especially in a school that values inquiry, collaboration, and interdisciplinary thinking.
 

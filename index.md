@@ -3,6 +3,7 @@ layout: home
 title: "Welcome!"
 permalink: /
 ---
+> When we try to pick out anything by itself, we find it hitched to everything else in the universe. -- John Muir 
 
 ## Building Systems. Centering Students. Supporting Teachers.
 
@@ -14,7 +15,7 @@ Through teaching, coaching, curriculum design, and tools development, I have hel
 
 ### Teaching & Learning
 **Authentic, Accessible Projects**  
-Rigorous and creative CS/math curricula — including capstone projects, integrated algebra supports, and real-world data science experiences — for students of all backgrounds.
+Rigorous and creative CS/math curricula — including [capstone projects]({{ '/student-work' | relative_url }}), integrated algebra supports, and [real-world data science experiences]({{ '/student-work/data-science/' | relative_url }}) — for students of all backgrounds.
 
 ### Systems & Tools
 **Infrastructure that Amplifies Good Work**  
@@ -39,7 +40,7 @@ Led multi-year department efforts to align mastery standards, co-design rubrics,
 ## About Me
 I believe that schools should be places where **students feel powerful**, **teachers feel supported**, and **systems work quietly in the background** — not against the people in them.
 
-> Growth happens through structure, trust, iteration, and care.
+*Growth happens through structure, trust, iteration, and care.*
 
 [Learn More About My Work]({{ '/about' | relative_url }})
 
