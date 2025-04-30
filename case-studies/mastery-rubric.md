@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: single
 title: "Making Mastery Work"
 permalink: /impact/mastery/
----
----
-layout: page
-title: "Mastery Rubrics for CS & Math"
-permalink: /impact/mastery-rubrics/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Mastery Rubrics for CS & Math
