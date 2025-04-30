@@ -29,7 +29,7 @@ Led multi-year department efforts to [align mastery standards]({{ '/case-studies
 ## Featured Projects
 - **[Mastery Rubrics Aligned Across CS + Math]({{ '/case-studies/mastery-rubric' | relative_url }})**  
   Facilitated design and implementation of shared mastery grading standards.
-- **[Data Science Research Project]({{ '/projects/data-science-research-project' | relative_url }})**  
+- **[Data Science Research Project]({{ '/student-work/data-science' | relative_url }})**  
   Full-cohort data investigations with real-world datasets and public presentations.
 - **[Schoolwide Dashboard Systems]({{ '/case-studies/dashboards' | relative_url }})**  
   Built custom spreadsheets that streamlined grading, attendance, interventions, and parent outreach — visible at the admin, team, and student levels.
