@@ -16,7 +16,7 @@ I'm an experienced teacher-leader who has spent the past decade [designing, buil
 
 ### Teaching & Learning
 **[Authentic, Accessible Projects]({{ '/student-work' | relative_url }})**  
-Rigorous and creative CS/math curricula — including [capstone projects]({{ '/student-work' | relative_url }}), [integrated algebra supports]({{ '/student-work/flag-project' | relative_url }}), and [real-world data science experiences]({{ '/student-work/data-science' | relative_url }}) — for students of all backgrounds.
+Rigorous and creative CS/math curricula — including capstone projects, [integrated algebra supports]({{ '/student-work/flag-project' | relative_url }}), and [real-world data science experiences]({{ '/student-work/data-science' | relative_url }}) — for students of all backgrounds.
 
 ### Systems & Tools
 **[Infrastructure that Amplifies Good Work]({{ '/tools' | relative_url }})**  

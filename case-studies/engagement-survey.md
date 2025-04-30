@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: single
 title: From Data to Action
-permalink: /impact/case-study-engagement-survey/
+permalink: /case-studies/engagement-survey/
+sidebar:
+  nav: "main"
+author_profile: true
+permalink: /
 ---
 
 ## Case Study: From Data to Action — Student-Led Engagement Research
