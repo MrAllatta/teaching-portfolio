@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
 title: Case Studies
 permalink: /case-studies/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Case Studies in Practice
