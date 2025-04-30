@@ -7,24 +7,19 @@ sidebar:
 author_profile: true
 ---
 
+## [Printable Cover Letter and Resume]({{ '/cv/resume' | relative_url }})
+
 *Computer Science & Mathematics Educator | Curriculum Developer | National Trainer*  
 📍 Relocating to NYC by July 2025  
 
----
-
 ## **Summary**  
 Experienced computer science and mathematics educator with over a decade of success in New York City public schools. Specializes in computational modeling, functional programming, and high-rigor curriculum design. Founding teacher at the Academy for Software Engineering (AFSE), and proven leader in scaling CS and data science instruction for diverse learners. Nationally recognized trainer and presenter with a deep commitment to equitable computing access, even in under-resourced classrooms. Known for building instructional systems that foster reflection, coherence, and measurable student growth.
-
----
 
 ## **Certification & Licensure**  
 - **New York State Professional Certificate** – 7–12 Mathematics  
 - **New York State Initial Certificate (in progress)** – K–12 Computer Science *(Anticipated June 2027)*  
 
----
-
 ## **Teaching & Instructional Leadership**
-
 ### **Academy for Software Engineering (AFSE)**  
 **Mathematics & Computer Science Teacher, Department Lead**  
 *NYC Department of Education | 2012–2021*  
@@ -44,8 +39,6 @@ Experienced computer science and mathematics educator with over a decade of succ
 - Taught Algebra II/Trigonometry; led Regents prep and assessment-driven instruction.  
 - Conducted action research on formative assessment and student performance in upper-level math.
 
----
-
 ## Instructional Systems Design & Engineering
 Selected projects demonstrating the use of spreadsheet-based automation, data integration, and instructional infrastructure.
 
@@ -53,12 +46,9 @@ Selected projects demonstrating the use of spreadsheet-based automation, data in
 Developed a secure, scalable system to import and process student and guardian contact data from the NYC DOE’s Automate The Schools (ATS) system into Remind, a school communication platform.
 
 - Used advanced spreadsheet logic and data validation to:
-
-  - Match students with multiple guardians while respecting language preferences and custody considerations.
-
-  - Automatically assign students to teachers and advisory groups based on shared instructional context.
-
-  - Enable targeted, role-sensitive messaging (e.g., academic warnings, celebration notes, multilingual updates).
+- Match students with multiple guardians while respecting language preferences and custody considerations.
+- Automatically assign students to teachers and advisory groups based on shared instructional context.
+- Enable targeted, role-sensitive messaging (e.g., academic warnings, celebration notes, multilingual updates).
 
 Result: Dramatically improved outreach rates in hard-to-reach populations and supported school-wide systems of care and accountability during both in-person and remote instruction.
 
@@ -66,11 +56,8 @@ Result: Dramatically improved outreach rates in hard-to-reach populations and su
 Designed and maintained a suite of spreadsheet-based tools using export data from the Jumprope standards-based grading platform to streamline:
 
 - Real-time dashboards for mastery tracking across math, CS, and advisory courses.
-
 - Graduation eligibility planning using dynamic credit tallies, state exam requirements, and IEP/ENL adjustments.
-
 - Collaborative team planning tools, linking grade-level and department leads with centralized insights into student progress and intervention outcomes.
-
 - Architected parent/child spreadsheet systems with push/pull syncing logic, enabling flexible data ownership while maintaining system integrity.
 
 Result: Empowered instructional teams to monitor, respond to, and improve student outcomes across hundreds of learners — even in remote learning contexts.
@@ -89,10 +76,7 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - Mentored CS educators, particularly those transitioning from math teaching backgrounds.  
 - Supported state- and district-wide CS implementations in NY, NJ, NM, and beyond.
 
----
-
 ## **Curriculum Development & Research**
-
 ### **Computational Algebra Researcher**  
 **Bootstrap & AFSE | 2013–2014**  
 - Designed and led a controlled study on functional programming pedagogy in Algebra I.  
@@ -104,14 +88,12 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - Co-developed early AP CS Principles curriculum alongside national teams (BJC, Bootstrap, EarSketch).  
 - Participated in pilot training and curriculum review during the national rollout.
 
----
-
 ## **Selected Publications & Presentations**
 - **“Solving for X and Y in a School Focused on Math and Computer Science,”** *EdSurge* (2016)  
-  [edsurge.com/news/2016-07-16](https://www.edsurge.com/news/2016-07-16-solving-for-x-and-y-in-a-school-focused-on-math-and-computer-science)
+[edsurge.com/news/2016-07-16](https://www.edsurge.com/news/2016-07-16-solving-for-x-and-y-in-a-school-focused-on-math-and-computer-science)
   
 - **“Yes, Any Teacher Can Help the City Spread Computer Science,”** *Chalkbeat* (2015)  
-  [chalkbeat.org/yes-any-teacher-can-help](https://www.chalkbeat.org/newyork/2015/10/22/21096178/yes-any-teacher-can-help-the-city-spread-computer-science-no-not-any-training-will-do)
+[chalkbeat.org/yes-any-teacher-can-help](https://www.chalkbeat.org/newyork/2015/10/22/21096178/yes-any-teacher-can-help-the-city-spread-computer-science-no-not-any-training-will-do)
 
 - **SIGCSE (2015, 2018)**  
   Invited presenter on CS Principles pedagogy and performance task strategies.
@@ -125,8 +107,6 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - **Teaching Tips Contributor**  
   Shared CS teaching strategies on [CSTeachingTips.org](https://www.csteachingtips.org/)
 
----
-
 ## **Technical Proficiencies**
 
 **Programming & Tools**  
@@ -139,8 +119,6 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - Google Cloud Platform, AWS (introductory use)  
 - Bootstrap, BJC, GitHub Education, Jumprope, Google Classroom, Remind
 
----
-
 ## **Professional Goals & Learning Plan (2024–2025)**
 
 - **Teaching:** Secure a full-time CS/math teaching position at a high-performing NYC high school by *September 2025*.  
@@ -151,4 +129,3 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - **Wellness:** Maintain physical health through Iyengar Yoga, Kettlebell training, and cardiovascular exercise.
 
 ---
-
