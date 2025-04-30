@@ -10,14 +10,14 @@ author_profile: true
   <img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Description" width="200" />
 </p>
 
-I'm a CS and math educator with 10+ years of experience in NYC public schools, focused on integrating computing and data science into rigorous, equitable instruction. After a hiatus to focus on family, I'm excited to return to the classroom -- especially in a school that values inquiry, collaboration, and interdisciplinary thinking.
+I'm a CS and math educator with 10+ years of experience in NYC public schools, focused on integrating computing and data science into rigorous, equitable instruction. After a hiatus to focus on family, I'm excited to return to the classroom---especially in a school that values inquiry, collaboration, and interdisciplinary thinking.
 
 At the Academy for Software Engineering (AFSE), I helped launch one of NYC's first CS-themed high schools. Over nine years, I:
 - Developed integrated CS-math curriculua using tools like **Bootstrap, Greenfoot, EarSketch, Nand2Tetris**, and **Beauty and Joy of Computing**
 - Focused on accessibility and conceptual for diverse learners
 - Led interdisciplinary initiatives that strengthened both AP CS enrollment and Algebra Regents outcomes
 
-I thrive in project-based, STEM-focused schools -- especially early college models and interdisciplinary teams. I've:
+I thrive in project-based, STEM-focused schools---especially early college models and interdisciplinary teams. I've:
 - Mentored new CS teachers
 - Led cross-department planning
 - Managaged school-wide systems for internal communication
