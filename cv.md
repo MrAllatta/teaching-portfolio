@@ -105,7 +105,7 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
   Topics: Functional programming, recursion, equity-centered CS teaching.
 
 - **Teaching Tips Contributor**  
-  Shared CS teaching strategies on [CSTeachingTips.org](https://www.csteachingtips.org/)
+  Shared CS teaching strategies on [CSTeachingTips.org](https://www.csteachingtips.org/taxonomy/term/367)
 
 ## **Technical Proficiencies**
 
