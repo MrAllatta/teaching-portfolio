@@ -16,9 +16,9 @@ author_profile: true
 Experienced computer science and mathematics educator with over a decade of success in New York City public schools. Specializes in computational modeling, functional programming, and high-rigor curriculum design. Founding teacher at the Academy for Software Engineering (AFSE), and proven leader in scaling CS and data science instruction for diverse learners. Nationally recognized trainer and presenter with a deep commitment to equitable computing access, even in under-resourced classrooms. Known for building instructional systems that foster reflection, coherence, and measurable student growth.
 
 ## **Certification & Licensure**  
-- **New York State Professional Certificate** – 7–12 Mathematics  
-- **New York State Initial Certificate (in progress)** -- K–12 Computer Science *(Anticipated September 2025)*  
-- **New York State Initial Certificat (in progress)** -- CTE Computing Technology *(Anticipated September 2025)*
+- **New York State Professional Certificate** --- 7-12 Mathematics  
+- **New York State Initial Certificate (in progress)** --- K-12 Computer Science *(Anticipated September 2025)*  
+- **New York State Initial Certificat (in progress)** --- CTE Computing Technology *(Anticipated September 2025)*
 ## **Teaching & Instructional Leadership**
 ### **Academy for Software Engineering (AFSE)**  
 **Mathematics & Computer Science Teacher, Department Lead**  
