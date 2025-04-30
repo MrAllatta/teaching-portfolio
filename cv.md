@@ -18,7 +18,7 @@ Experienced computer science and mathematics educator with over a decade of succ
 ## **Certification & Licensure**  
 - **New York State Professional Certificate** – 7–12 Mathematics  
 - **New York State Initial Certificate (in progress)** -- K–12 Computer Science *(Anticipated September 2025)*  
-- **New York State Initial Certificat (in progress)**-- CTE Computing Technology *(Anticipated September 2025)*
+- **New York State Initial Certificat (in progress)** -- CTE Computing Technology *(Anticipated September 2025)*
 ## **Teaching & Instructional Leadership**
 ### **Academy for Software Engineering (AFSE)**  
 **Mathematics & Computer Science Teacher, Department Lead**  
