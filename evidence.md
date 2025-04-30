@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Evidence of Impact"
 permalink: /impact/evidence/
 sidebar:
