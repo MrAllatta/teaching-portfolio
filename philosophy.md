@@ -9,9 +9,9 @@ author_profile: true
 
 ## Constructivist at Heart. Structured in Practice.
 
-I believe students learn best when they build knowledge themselves. My pedagogy is rooted in **constructivism**--but that doesn’t mean chaos. I create structured, intentional environments where students investigate, question, revise, and ultimately own the ideas they’re working with.
+I believe students learn best when they build knowledge themselves. My pedagogy is rooted in **constructivism**---but that doesn’t mean chaos. I create structured, intentional environments where students investigate, question, revise, and ultimately own the ideas they’re working with.
 
-Learning isn’t fast or tidy. Deep understanding comes through **productive struggle, repeated encounters, and authentic feedback**. I help students make mistakes safely--and learn how to use those mistakes to sharpen their reasoning. Every part of my classroom--from project design to grading—is built to reward **growth, not performance theater**.
+Learning isn’t fast or tidy. Deep understanding comes through **productive struggle, repeated encounters, and authentic feedback**. I help students make mistakes safely---and learn how to use those mistakes to sharpen their reasoning. Every part of my classroom---from project design to grading---is built to reward **growth, not performance theater**.
 
 ## Teaching Computer Science: Tools, Ideas, and Power
 
@@ -19,8 +19,8 @@ To me, computer science is less about syntax and more about **thinking clearly a
 
 My CS classrooms prioritize:
 - **Design-first thinking**: Students build from contracts and patterns, not spaghetti code.
-- **Data-rich projects**: Students engage with real information--often from their own communities.
-- **Social context**: From bias in algorithms to privacy tradeoffs, computing is political—and students should understand what they're building and why.
+- **Data-rich projects**: Students engage with real information---often from their own communities.
+- **Social context**: From bias in algorithms to privacy tradeoffs, computing is political---and students should understand what they're building and why.
 
 I don’t teach coding as a set of hoops--I teach it as a **tool for thinking, creating, and questioning**.
 
