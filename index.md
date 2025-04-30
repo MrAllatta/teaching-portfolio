@@ -24,7 +24,7 @@ Custom-built [grading platforms]({{ '/tools/grade-converter' | relative_url }}),
 
 ### Team Development
 **[Collaborative Growth]({{ '/case-studies/mastery-grading' | relative_url }})**  
-Led multi-year department efforts to [align mastery standards]({{ '/case-studies/mastery-rubric' | relative_url }}), [co-design rubrics]({{ '/case-studies/mastery-rubric' | relative_url }}), and [build a culture of project-based learning]({{ '/case-studies/project-csp' | relative_url }}) — while [mentoring new teachers]({{ '/pd' | relative_url }}) and [supporting cross-team planning]({{ '/case-studies/engagement-survey' | relative_url }}).
+Led multi-year department efforts to [align mastery standards]({{ '/case-studies/mastery-rubric' | relative_url }}), [co-design rubrics]({{ '/case-studies/mastery-rubric' | relative_url }}), and [build a culture of project-based learning]({{ '/case-studies/project-csp' | relative_url }}) — while [mentoring new teachers]({{ '/teaching/professional-development' | relative_url }}) and [supporting cross-team planning]({{ '/case-studies/engagement-survey' | relative_url }}).
 
 ## Featured Projects
 - **[Mastery Rubrics Aligned Across CS + Math]({{ '/case-studies/mastery-rubric' | relative_url }})**  
