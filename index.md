@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Eric Allatta — Teaching Portfolio"
 sidebar:
   nav: "main"
