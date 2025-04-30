@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Making Mastery Work"
-permalink: /impact/mastery/
+permalink: /case-studies/mastery-rubric/
 sidebar:
   nav: "main"
 author_profile: true

@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
 title: Making Mastery Work
-permalink: /impact/case-study-mastery-grading/
+permalink: /case-studies/mastery-grading/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Case Study: Making Mastery Work

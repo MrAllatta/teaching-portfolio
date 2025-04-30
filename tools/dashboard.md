@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Jumpro.pe Dashboards & Reporting Glue"
 permalink: /tools/dashboard/
 sidebar:
