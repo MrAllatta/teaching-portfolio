@@ -12,5 +12,5 @@ Welcome to my teaching portfolio. I am a dedicated educator with a background in
 ## Sections:
 - [Teaching Statement]({{ '/teaching/statement' | relative_url }})
 - [Philosophy]({{ '/teaching/philosophy' | relative_url }})
-- [Evidence of Impact]({{ '/evidence' | relative_url }})
+- [Evidence of Impact]({{ '/impact/evidence' | relative_url }})
 
