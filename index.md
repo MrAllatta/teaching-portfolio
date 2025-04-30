@@ -10,7 +10,7 @@ permalink: /
 ## Welcome!
 
 I'm an experienced teacher-leader who has spent the past decade [designing, building, and refining]({{ '/timeline' | relative_url }}) hands-on, equitable computer science and math programs in NYC public schools.  
-Through [teaching]({{ '/student-work' | relative_url }}), [coaching and curriculum design]({{ '/teaching/professional-development' | relative_url }}), and [tools development]({{ '/tools' | relative_url }}), I have helped entire departments — and [whole schools]({{ '/case-studies/dashboards' | relative_url }}) — grow stronger, more coherent, and more supportive for students and staff alike.
+	Through [teaching]({{ '/student-work' | relative_url }}), [coaching and curriculum design]({{ '/teaching/professional-development' | relative_url }}), and [tools development]({{ '/tools' | relative_url }}), I have helped [entire departments]({{ '/impact/mastery' | relative_url}}) — and [whole schools]({{ '/case-studies/dashboards' | relative_url }}) — grow stronger, more coherent, and more supportive for students and staff alike.
 
 ## Areas of Focus
 
