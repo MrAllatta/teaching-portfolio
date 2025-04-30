@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: single
 title: Data Science Research Project
 permalink: /student-work/data-science/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 ## Student-Led Survey & Data Science Research Project
 

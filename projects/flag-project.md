@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: "Flag Project - Symbolic Design & Math"
 permalink: /student-work/flag-project/
-
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 
 ## Flag Project: Symbolic Expression Through Geometry & Code
