@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Optimizing My NYC High School Job Search with YAML, yq, and Emacs
 date:   2025-02-21 08:00:00 -0500
 categories: jekyll update
