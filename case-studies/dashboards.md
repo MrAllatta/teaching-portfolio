@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Course Recovery and Communication Dashboards
 permalink: /case-studies/dashboards/
 sidebar:
