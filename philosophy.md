@@ -2,6 +2,9 @@
 layout: single
 title: Philosophy
 permalink: /teaching/philosophy/
+sidebar:
+  nav: "main"
+author_profile: true
 ---
 ## Learning is Slow, Messy, and Worth It
 
