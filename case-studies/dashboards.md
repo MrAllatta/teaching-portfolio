@@ -7,8 +7,6 @@ sidebar:
 author_profile: true
 ---
 
-# Course Recovery and Communication Dashboards
-
 When the pandemic shattered conventional grading, attendance, and promotion structures, I built a suite of spreadsheet-driven dashboards and tools that kept our school community afloat.
 
 Working with raw exports from Jumpro.pe (mastery-based gradebook), attendance systems, and student/course/family rosters, I designed flexible systems that:
