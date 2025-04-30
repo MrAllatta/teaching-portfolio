@@ -11,7 +11,7 @@ author_profile: true
 
 I believe students learn best when they build knowledge themselves. My pedagogy is rooted in **constructivism**--but that doesn’t mean chaos. I create structured, intentional environments where students investigate, question, revise, and ultimately own the ideas they’re working with.
 
-Learning isn’t fast or tidy. Deep understanding comes through **productive struggle, repeated encounters, and authentic feedback**. I help students make mistakes safely—and learn how to use those mistakes to sharpen their reasoning. Every part of my classroom—from project design to grading—is built to reward **growth, not performance theater**.
+Learning isn’t fast or tidy. Deep understanding comes through **productive struggle, repeated encounters, and authentic feedback**. I help students make mistakes safely--and learn how to use those mistakes to sharpen their reasoning. Every part of my classroom--from project design to grading—is built to reward **growth, not performance theater**.
 
 ## Teaching Computer Science: Tools, Ideas, and Power
 
