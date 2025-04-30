@@ -119,13 +119,4 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - Google Cloud Platform, AWS (introductory use)  
 - Bootstrap, BJC, GitHub Education, Jumprope, Google Classroom, Remind
 
-## **Professional Goals & Learning Plan (2024–2025)**
-
-- **Teaching:** Secure a full-time CS/math teaching position at a high-performing NYC high school by *September 2025*.  
-- **Curriculum:** Finalize and publish a high-signal, inquiry-driven CS curriculum aligned with Webb’s Depth of Knowledge.  
-- **Tech Upskilling:** Dedicate 10–15 hours/week to AI-assisted study of data engineering foundations (ETL, SQL, pipelines, cloud).  
-- **Portfolio:** Build a robust teaching portfolio and curriculum site for public demonstration.  
-- **Relocation:** Coordinate family relocation to NYC, secure housing, enroll children in strong school zones.  
-- **Wellness:** Maintain physical health through Iyengar Yoga, Kettlebell training, and cardiovascular exercise.
-
 ---
