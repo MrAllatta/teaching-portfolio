@@ -5,7 +5,6 @@ permalink: /case-studies/engagement-survey/
 sidebar:
   nav: "main"
 author_profile: true
-permalink: /
 ---
 
 ## Case Study: From Data to Action — Student-Led Engagement Research
