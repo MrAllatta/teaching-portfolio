@@ -13,7 +13,7 @@ author_profile: true
 📍 Relocating to NYC by July 2025  
 
 ## **Summary**  
-Experienced computer science and mathematics educator with over a decade of success in New York City public schools. Specializes in computational modeling, functional programming, and high-rigor curriculum design. Founding teacher at the Academy for Software Engineering (AFSE), and proven leader in scaling CS and data science instruction for diverse learners. Nationally recognized trainer and presenter with a deep commitment to equitable computing access, even in under-resourced classrooms. Known for building instructional systems that foster reflection, coherence, and measurable student growth.
+Experienced computer science and mathematics educator with over a decade of success in New York City public schools. Specializes in computational modeling, functional programming, and high-rigor curriculum design. Founding teacher at the Academy for Software Engineering (AFSE), and proven leader in scaling CS and data science instruction for diverse learners. Longtime curriculum collaborator with Bootstrap, the national leader in integrating computing and mathematics. Nationally recognized trainer and presenter with a deep commitment to equitable computing access, even in under-resourced classrooms. Known for building instructional systems that foster reflection, coherence, and measurable student growth.
 
 ## **Certification & Licensure**  
 - **New York State Professional Certificate** --- 7-12 Mathematics  
