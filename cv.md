@@ -82,7 +82,7 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 **Bootstrap & AFSE | 2013–2014**  
 - Implemented a controlled study on functional programming pedagogy in Algebra I with Bootstrap's research framework.  
 - Students in the experimental group improved 90–111% in modeling accuracy; control group declined by 39%.  
-- Results informed training for teachers nationally through Bootstrap-aligned programs.
+- Findings informed Bootstrap's national training programs for teachers nationally and shaped integration strategies for algebraic computing across districts.
 
 ### **AP CS Principles Pilot Developer**  
 **CollegeBoard | 2013–2017**  
