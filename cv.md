@@ -71,7 +71,8 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 
 ### **National Trainer & Curriculum Consultant**  
 **Bootstrap / CSforAll / Rutgers / Santa Fe Public Schools | 2014–Present**  
-- Led national PD for hundreds of K–12 teachers integrating computing with NGSS and math standards.  
+- Led national PD for hundreds of K–12 teachers integrating computing with NGSS and CC math standards.  
+- Longstanding collaborator with Bootstrap, including curriculum co-development and training on their flagship Algebra-integrated and Data Science functional programming pathways.  
 - Developed curricula aligned to Precalculus, Algebra, and AP-level expectations.  
 - Mentored CS educators, particularly those transitioning from math teaching backgrounds.  
 - Supported state- and district-wide CS implementations in NY, NJ, NM, and beyond.
@@ -79,7 +80,7 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 ## **Curriculum Development & Research**
 ### **Computational Algebra Researcher**  
 **Bootstrap & AFSE | 2013–2014**  
-- Designed and led a controlled study on functional programming pedagogy in Algebra I.  
+- Implemented a controlled study on functional programming pedagogy in Algebra I with Bootstrap's research framework.  
 - Students in the experimental group improved 90–111% in modeling accuracy; control group declined by 39%.  
 - Results informed training for teachers nationally through Bootstrap-aligned programs.
 
