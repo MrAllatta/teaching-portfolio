@@ -30,3 +30,5 @@ I also bring technical systems experience. Highlights include:
 These projects helped schools act on student feedback and manage instruction more effectively.
 
 I'm ready to lead **AP Computer Science, Data Science or an integrated CS-Math course**, and I'm equally at home teaching **Algebra I** or **advanced math with a computing lens**. I believe in transparent grading, regular family communication, and building STEM partnerships that extend learning beyond the school day.
+
+<img src="https://https://script.google.com/macros/s/AKfycbyE28QRl0vWZcFSGDx6Q_Puh9rHIlykafvxqONShO1sfiChdv7C13DjqRvcPbKU1l4Y/exec?pixel=portfolio&path=/about&referrer=teaching-portfolio" width="1" height="1" style="display:none" />
