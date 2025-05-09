@@ -29,7 +29,7 @@ _**Strategic Proposal for 2024–2027**_
 ## Integration Opportunities
 
 - **"Identities"** → Data & Bias in Collections (Python)
-- **"Geometric Design"** → Computational Geometry (Turtle graphics)
+- **"Geometric Design"** → Computational Geometry (Procedural: Turtle graphics; functional: Racket/Pyret image library)
 - **"Activism"** → Digital Protest Mapping (Data + History)
 
 ---
@@ -44,6 +44,6 @@ _**Strategic Proposal for 2024–2027**_
 
 ## Contact
 
-**[Your Name]**  
+**Eric Allatta**  
 [ericallatta@gmail.com](mailto:ericallatta@gmail.com)  
 [linkedin.com/in/eric-allatta/](https://www.linkedin.com/in/eric-allatta/)
