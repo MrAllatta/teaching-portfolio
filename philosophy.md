@@ -15,7 +15,7 @@ Learning isn’t fast or tidy. Deep understanding comes through **productive str
 
 ## Teaching Computer Science: Tools, Ideas, and Power
 
-To me, computer science is less about syntax and more about **thinking clearly and building responsibly**. Students start with data, systems, and patterns---not just print statements and syntax rules. They build models, design algorithms, and explore the ethics of automation. They learn to explain their thinking, debug their logic, and collaborate on complex systems.
+To me, computer science is less about syntax and more about **thinking clearly and building responsibly**. Students start with data, systems, and patterns---not just print statements and syntax rules. They build models, design algorithms, and explore the ethics of automation. We focus on transferable thinking. I teach students to recognize the shape of problems and understand how algorithms reflect the structure of those problems. That’s the power of abstraction—our human response to complexity. By learning to model, generalize, and decompose, students build skills they can carry into any domain. They learn to explain their thinking, debug their logic, and collaborate on complex systems.
 
 My CS classrooms prioritize:
 - **Design-first thinking**: Students build from contracts and patterns, not spaghetti code.
@@ -30,8 +30,10 @@ My classrooms aren’t free-for-alls, and they aren’t compliance factories. I 
 
 Students revise their work. They participate in public code reviews. They reflect, self-assess, and present their process—not just their products. This teaches them to own their ideas and build transferable habits of mind.
 
+Structured environments don't just create safety---they create clarity. When students repeatedly engage with patterns, models, and problems types across disciplines, they build tools they can carry into novel situations. That's the heart of transfer, and it's what real learning demands.
+
 ## Final Thought
 
-I teach because I believe students can do extraordinary things when the environment is right. My job is to design that environment---to hold it steady, to challenge students deeply, and to show them that **they are capable of real intellectual work**.
+I teach because I believe students can do extraordinary things when the environment is right. My job is to design that environment---to hold it steady, to challenge students deeply, and to show them that **they are capable of real intellectual work**---and to give them tools they can use far beyond my classroom.
 
 Because they are. And that’s what school should be for.
