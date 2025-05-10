@@ -118,7 +118,7 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 
 ### **Professional & Pedagogical Programming Skills**
 
-*Languages and environments where you have deeper professional or project-building fluency.*
+*Languages and environments where I have deeper professional or project-building fluency.*
 
 * **Python** — developing proficiency with pandas, NumPy, matplotlib; building toward systems integration and data analysis
 * **Google Apps Script** — advanced use for educational automation, custom spreadsheet systems, and workflow glue
