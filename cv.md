@@ -108,16 +108,44 @@ Result: Empowered instructional teams to monitor, respond to, and improve studen
 - **Teaching Tips Contributor**  
   Shared CS teaching strategies on [CSTeachingTips.org](https://www.csteachingtips.org/taxonomy/term/367)
 
-## **Technical Proficiencies**
+### **Teaching Languages & Educational Platforms**
 
-**Programming & Tools**  
-- Python, Java, SQL, Pyret, Racket, HTML/CSS, GoogleAppsScript/JavaScript  
-- Git/GitHub, Jupyter Notebooks, Replit, Scratch, EarSketchp5.js  
-- BlueJ, GreenFoot, Emacs
+*Languages and tools used primarily for instruction, curriculum implementation, and AP-level course delivery.*
 
-**Curriculum & Data Tools**  
-- Pandas, NumPy, MatPlotLab, Google Colab, Google Sheets  
-- Google Cloud Platform, AWS (introductory use)  
-- Bootstrap, BJC, GitHub Education, Jumprope, Google Classroom, Remind
+* **Pyret, Racket, EarSketch, Snap!, Scratch** — pedagogical languages used for curriculum like Bootstrap, BJC, and EarSketch
+* **ps5.js, BlueJ, GreenFoot** — structured environments for teaching Java and JavaScript fundamentals
+* **Replit, Jupyter Notebooks** — platforms for student projects and rapid instructional prototyping
+
+### **Professional & Pedagogical Programming Skills**
+
+*Languages and environments where you have deeper professional or project-building fluency.*
+
+* **Python** — developing proficiency with pandas, NumPy, matplotlib; building toward systems integration and data analysis
+* **Google Apps Script** — advanced use for educational automation, custom spreadsheet systems, and workflow glue
+* **Functionally Prototyped JavaScript** — ORM-style architecture, building tools layered over Apps Script backend
+* **HTML/CSS** — supporting instructional materials and portfolio site customization
+
+### **Version Control & Development Workflow**
+
+* **Git** — strong proficiency; distinguish between Git and GitHub workflows
+* **GitHub Education** — curriculum-aligned use for classroom project management
+
+### **Educational Data Tools & System Integration**
+
+*Fluent in both teacher-facing and data-processing use cases.*
+
+* **Google Sheets** — advanced spreadsheet logic, including master/slave setups, formula pipelines, and dynamic dashboards
+* **Jumprope** — expert user and developer of export → analytics workflows
+* **Remind** — both instructional use and technical expertise in structured bulk import workflows
+* **ATS Integration** — experience building data flows between NYC’s ATS and classroom communication tools
+
+### **Cloud & Data Platforms (Foundational Use)**
+
+* **Google Cloud Platform, AWS (intro)** — early stage experimentation and deployment; primarily via Apps Script or Colab
+* **Google Colab** — notebook-based instruction and exploratory analysis
+
+### **Curriculum & Pedagogy Partnerships**
+
+* **Bootstrap, BJC, EarSketch** — curriculum collaborator and teacher trainer; integrated CS-math pedagogy
 
 ---
